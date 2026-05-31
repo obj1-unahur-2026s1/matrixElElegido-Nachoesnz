@@ -58,7 +58,7 @@ object trinity{
 
 object nave{
 
-    var pasajeros = []
+    const pasajeros = []
 
     method agregarPasajero(pasajeroNuevo) {
         pasajeros.add(pasajeroNuevo)
